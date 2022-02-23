@@ -1,1 +1,5 @@
-
+# 该地址为订阅转换地址
+https://acl4ssr-sub.github.io/
+# 配置转换地址https://www.urlencoder.org/
+# 修改后的配置文件
+&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fqjz601%2FACL4SSR%2Fmaster%2FClash%2Fperini&emoji=true&list=false&udp=ture&tfo=ture&scv=false&fdn=false&sort=false
